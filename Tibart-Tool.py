@@ -185,7 +185,7 @@ def homescreen () :
     print ("\033[1;36mVisit:»» \033[1;33m >> www.youtube.com/Tibart How to use <<\033[1;36m To Get a Free Password... ")
     print (' ')
     V = input ("Enter Your Password TO \033[1;32mSTART.....! :")
-    if V == 'V7x' or V == 'v7x'or V == 'Vairous7x' or V == 'vairous7x' or V == 'admin' or V == 'Admin' :
+    if V == 'Tiiart':
         os.system ('clear')
         time.sleep(0.1)
         os.system ('clear')
